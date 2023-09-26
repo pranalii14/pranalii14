@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **BE final year project**
 
-- 🌱 I’m currently learning **Salesforce, Machine Learning**
+- 🌱 I’m currently learning **SAP Course, Machine Learning, AR-VR and Blockchain**
 
 - 👯 I’m looking to collaborate on **Online Cake Ordering System**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1aRIY5yZWQX5ObPHzZEtEYrUeSVZ-jeta/view?usp=drivesdk](https://drive.google.com/file/d/1aRIY5yZWQX5ObPHzZEtEYrUeSVZ-jeta/view?usp=drivesdk)
 
-- 💬 Ask me about **Html, CSS, Javascript, Java, Python**
+- 💬 Ask me about **Html, C++, C, Javascript, Java, Python**
 
 - 📫 How to reach me **sakpalpranali10@gmail.com**
 
